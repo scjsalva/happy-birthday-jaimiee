@@ -4,7 +4,7 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1749106283|59289744';
+const CACHE_VERSION = '1749106440|216929063';
 /** @type {string} */
 const CACHE_PREFIX = 'HBDCozy-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
