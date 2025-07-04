@@ -4,9 +4,9 @@
 // Incrementing CACHE_VERSION will kick off the install event and force
 // previously cached resources to be updated from the network.
 /** @type {string} */
-const CACHE_VERSION = '1750046379|1720716421';
+const CACHE_VERSION = '1751632872|1555594383';
 /** @type {string} */
-const CACHE_PREFIX = 'HBDCozy-sw-cache-';
+const CACHE_PREFIX = 'Happy Birthday J-sw-cache-';
 const CACHE_NAME = CACHE_PREFIX + CACHE_VERSION;
 /** @type {string} */
 const OFFLINE_URL = 'index.offline.html';
